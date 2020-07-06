@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>chessresource/background.png</file>
+        <file>chessresource/bing.png</file>
+        <file>chessresource/blackbing.png</file>
+        <file>chessresource/blackche.png</file>
+        <file>chessresource/blackjiang.png</file>
+        <file>chessresource/blackma.png</file>
+        <file>chessresource/blackpao.png</file>
+        <file>chessresource/blackshi.png</file>
+        <file>chessresource/blackxiang.png</file>
+        <file>chessresource/che.png</file>
+        <file>chessresource/jiang.png</file>
+        <file>chessresource/ma.png</file>
+        <file>chessresource/pao.png</file>
+        <file>chessresource/shi.png</file>
+        <file>chessresource/xiang.png</file>
+        <file>chessresource/background1.png</file>
+        <file>chessresource/jiangjun.wav</file>
+    </qresource>
+</RCC>
